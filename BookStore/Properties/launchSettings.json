@@ -9,6 +9,16 @@
     }
   },
   "profiles": {
+    "hotreloadprofile": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "Key": "Value"
+      },
+      "applicationUrl": "http://localhost:5000",
+      "hotReloadProfile": "aspnetcore"
+    },
     "http": {
       "commandName": "Project",
       "dotnetRunMessages": true,
