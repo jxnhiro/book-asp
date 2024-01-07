@@ -1,3 +1,4 @@
+using BookStore.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BookStore.Controllers;
@@ -12,7 +13,7 @@ public class CategoryController : Controller
     }
     public IActionResult Index()
     {
-        var fetchedCategoriesList = _database.Categories.ToList();
-        return View();
+        IEnumerable<Category> fetchedCategoriesList = _database.Categories;
+        return View(fetchedCategoriesList);
     }
 }

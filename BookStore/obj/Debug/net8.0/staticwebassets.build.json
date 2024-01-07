@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xRtyir8OiXRXloQhWJjp3Hp9d+9WEJh5l9Oq6atN3qU=",
+  "Hash": "tybkZ+08WZyP6lf16vVCTda9GUnVM2B6nEN1Bl4qGNM=",
   "Source": "BookStore",
   "BasePath": "_content/BookStore",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/jxnhiro/Documents/mvc-asp-practice/BookStore/obj/Debug/net8.0/scopedcss/projectbundle/BookStore.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/jxnhiro/Documents/mvc-asp-practice/BookStore/wwwroot/css/bootstrap.min.css",
+      "SourceId": "BookStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/jxnhiro/Documents/mvc-asp-practice/BookStore/wwwroot/",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/bootstrap.min.css"
     },
     {
       "Identity": "/Users/jxnhiro/Documents/mvc-asp-practice/BookStore/wwwroot/css/site.css",

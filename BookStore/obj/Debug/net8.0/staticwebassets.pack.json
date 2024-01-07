@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/BookStore.bundle.scp.css"
     },
     {
+      "Id": "/Users/jxnhiro/Documents/mvc-asp-practice/BookStore/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+    },
+    {
       "Id": "/Users/jxnhiro/Documents/mvc-asp-practice/BookStore/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
